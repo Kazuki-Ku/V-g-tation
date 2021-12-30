@@ -1,25 +1,7 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <style>
-     img {border: solid 5px;}
-     h1 {
-       text-align: center;
-       border-radius: 10px;
-       padding: 5px 0 5px 0;
-       font-size: 35px;
-       background: linear-gradient(lime,green,olive);
-       margin: 30px;
-       }
-      .pla {color: crimson;}
-      .med {color: crimson;}
-      .biod {color: crimson;}
-    </style>
-    <meta charset="UTF-8">
-    <title>La végétation</title>
-    <script src="script.js"></script>
-    <!-- <link rel="stylesheet" type="text/css" href="styles.css"> -->
-  </head>
+ <head>
+ </head>
   <body>
   <body background="https://wallpapercave.com/wp/wp2722874.jpg">
     <input placeholder="Email"><br>
