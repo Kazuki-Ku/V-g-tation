@@ -23,8 +23,6 @@
     </ul></font></strong></p>
        <img src="https://fr.davidsuzuki.org/wp-content/uploads/sites/3/2013/05/connecter-nature.jpg"width="850" height="350">
        <br>
-       <a style="color: Green;"href='https://replay.gulli.fr/'><strong>Aller sur Gulli !</strong></a>
-       <p>Valider les <strong>conditions d'utilisations :</strong></p>
        <input type="checkbox">
        <h4><u>Vous avez rencontré(e) <span style="color: red;">un problème </span>?</strong></u><h4>
        <input>
